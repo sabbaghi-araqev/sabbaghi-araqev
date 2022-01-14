@@ -1,6 +1,6 @@
 Hi, I’m @sabbaghi-araqev.
 
-I’m the CTO and President of Araqev.
+I’m the CTO and President of @Araqev.
 
 - Araqev is a software company that uses its patented ML algorithms to solve the $2 billion problem in quality for additive manufacturing, or 3D printing.
 
